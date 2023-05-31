@@ -11,7 +11,9 @@
 :runner: In addition to my enthusiasm for the field of technology, I find joy in participating in sports such as **badminton** :badminton:, **cycling** :bicyclist:, **football** :soccer:, and **mountain climbing** :mountain:. I am also an avid traveler, constantly seeking new destinations to discover and explore.
 
 Here is my contact:
+
 Gmaill:  duongtanrb@gmail.com
+
 Linkedin: [Duong Tan](https://www.linkedin.com/in/tan-duong-622189225/)
 
 ---
