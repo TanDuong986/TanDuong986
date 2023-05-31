@@ -1,10 +1,6 @@
 # Hi there 👋
----
-<!--
-**TanDuong986/TanDuong986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## :rocket: **About me**: 
-___
 
 :mortar_board: Hello, I am Duong Tan - **Robotics Engineer** who is a student majoring in Robotics Engineering at Faculty of Electronics and Telecommnunications of the [University of Engineering and Technology](https://uet.vnu.edu.vn/).
 
