@@ -2,7 +2,7 @@
 
 ## :rocket: **About me**: 
 
-:mortar_board: Hello, I am Duong Tan - **Robotics Engineer** who is a student majoring in Robotics Engineering at Faculty of Electronics and Telecommnunications of the [University of Engineering and Technology](https://uet.vnu.edu.vn/).
+:mortar_board: Hello, I am Duong Tan - **Robotics Engineer** who is a student majoring in Robotics Engineering at Faculty of Electronics and Telecommnunications of the [University of Engineering and Technology](https://uet.vnu.edu.vn/en/).
 
 :mag: I am passionate about researching the use of **image processing** and **AI** to solve various image-related problems in both in **industrial settings** and in **everyday applications**.
 
